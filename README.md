@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Discord Bots
 - 🌱 I’m currently learning more Python because i love Python
-- 📫 How to reach me: **Discord:** 𝕓𝕖𝕟𝕞𝕒𝟘𝟝#3812
+- 📫 How to reach me: **Discord:** benma05#3812
 - ⚡ Fun fact: Bats are the only mammal that can actually fly.
 
 #
